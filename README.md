@@ -1,10 +1,10 @@
-#this program is built to allow a server to monitor several networked devices 
-#updating a database with the status' of said devices to a database as well as 
-#collecting network data on the device for the use of troubleshooting for the 
-#network administrator. this will allow the network admin to more efficiently 
-#bring the network back online. the system will also be allowed to create ticket
-#events to have the network admin bring the devices online as well as 
-#deprioritizing the events when devices come back up on their own.
+this program is built to allow a server to monitor several networked devices 
+updating a database with the status' of said devices to a database as well as 
+collecting network data on the device for the use of troubleshooting for the 
+network administrator. this will allow the network admin to more efficiently 
+bring the network back online. the system will also be allowed to create ticket
+events to have the network admin bring the devices online as well as 
+deprioritizing the events when devices come back up on their own.
 
 
 
